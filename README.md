@@ -11,7 +11,7 @@ Because of COVID-19 from the beginning of year 2020, business and customers' (us
 1. Analyse data of categories, locations(city, longitude and latitude), opening hours, operating state (open or closed), attributes of main business
 2. Analyse data of reviews, fans, texts, stars, checkins of customers (users)
 
-Matplotlib or Power BI is applied to illustrate analysis in graphs.
+Matplotlib is applied to illustrate analysis in graphs.
 
 When machine learning methods are used to do analysis, different models can be used to evaluate which model is the best.
 
