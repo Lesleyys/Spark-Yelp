@@ -1,7 +1,7 @@
 # Spark-Yelp
 ## Project title:
 
-Yelp data analysis: Business and customers' (users') behaviours under COVID-19
+Yelp data analysis: Business and customers (users) behaviours under COVID-19
 
 ## Summary:
 
